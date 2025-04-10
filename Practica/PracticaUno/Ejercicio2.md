@@ -34,7 +34,7 @@
   el atributo charset (No obligatorio) con el valor "utf-8" (obsoleto en HTML5)
   el atributo rel (No obligatorio) con el valor "help" (indica que el enlace llava a documentacion de ayuda)
 
-## f) <table width="200" summary="Datos correspondientes al ejercicio vencido">
+## f) < table width="200" summary="Datos correspondientes al ejercicio vencido" >
               <caption align="top"> Título </caption>
               <tr>
                   <th scope="col">&nbsp;</th>
