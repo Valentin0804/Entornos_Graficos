@@ -25,7 +25,7 @@
   - Los metadatos son información sobre el documento HTML que no se muestra directamente en la pagina, pero esencial para los navegadores, motores de busqueda (SEO).
   - Incluyen detalles como: Titulo, autor y descripcion, codificaciones de caracteres, instrucciones para navegadores.
   - Se definen dentro de la etiqueta <head> principalmente con estas etiquetas:
-    - <title>
-    - <meta>
-    - <link>
-    - <script> y <styles>
+    - < title >
+    - < meta >
+    - < link >
+    - < script > y < styles >
