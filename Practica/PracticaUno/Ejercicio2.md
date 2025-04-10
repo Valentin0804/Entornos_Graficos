@@ -26,7 +26,7 @@
   el atributo http-equiv (Obligatorio para este uso) con el valor "expires" (Simula encabezado HTTTP para control de caché)
   el atributo content (Obligatorio) con el valor "16-Sep-2019 7:49 PM" (Fecha de expiracion en formato GMT) 
 
-## e) <a href="http://www.e-style.com.ar/resumen.html" type="text/html" hreflang="es" charset="utf-8" rel="help">Resumen HTML </a>
+## e) < a href="http://www.e-style.com.ar/resumen.html" type="text/html" hreflang="es" charset="utf-8" rel="help">Resumen HTML < /a >
   La etiqueta < a > se coloca dentro del < body >, es la etiqueta para mostrar un enlace en el contenido de la pagina
   el atributo href (Obligatorio) con el valor "http://www.e-style.com.ar/resumen.html" (URL del destino de enlace)
   el atributo type (No obligatorio) con el valor "text/html" (indica el tipo MIME del recurso vinculado)
