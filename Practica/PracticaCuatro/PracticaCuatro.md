@@ -29,3 +29,25 @@ Variables-> $a : Boolean, $b : String, $c : String, $d : Integer, $f : Integer, 
 Operadores Aritmeticos-> * : Multiplicacion, += : Suma y Asignación, ++ : Incremento.
 Operadores de Comparacion -> is_int() : Verifica si es entero, is_string() : Verifica si es string.
 Operadores logicos-> ?: : Operador ternario.
+
+Funciones -> 
+doble($i) : Parametro: $i (numerico)
+gettype($var) : Parametro: $var (de cualquier tipo)
+is_string($var) : Parametro: $var (de cualquier tipo)
+is_int($var) : Parametro: $var (de cualquier tipo)
+
+Estructuras de control -> 
+if (){} : Condicional
+?: : Operador ternario
+
+Impresion por pantalla -> booleanstringstringinteger1xyzxyz184444
+
+
+Ejercicio 2
+
+
+
+
+Operadores Aritmeticos-> * : Multiplicacion, += : Suma y Asignación, ++ : Incremento.
+Operadores de Comparacion -> is_int() : Verifica si es entero, is_string() : Verifica si es string.
+Operadores logicos-> ?: : Operador ternario.
