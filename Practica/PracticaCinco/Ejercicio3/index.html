@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Recomendar sitio</title>
+</head>
+<body>
+    <h2>Recomendá este sitio a un amigo</h2>
+    <form action="enviar_recomendacion.php" method="POST">
+        <label for="nombre">Tu nombre:</label><br>
+        <input type="text" name="nombre" required><br><br>
+
+        <label for="tu_email">Tu correo:</label><br>
+        <input type="email" name="tu_email" required><br><br>
+
+        <label for="email_amigo">Correo de tu amigo:</label><br>
+        <input type="email" name="email_amigo" required><br><br>
+
+        <input type="submit" value="Enviar recomendación">
+    </form>
+</body>
+</html>

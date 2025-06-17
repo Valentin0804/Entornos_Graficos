@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Contacto</title>
+</head>
+<body>
+    <h1>Contacto con el Webmaster</h1>
+    <form action="procesar_contacto.php" method="POST">
+        <label for="nombre">Nombre:</label><br>
+        <input type="text" name="nombre" required><br><br>
+
+        <label for="email">Correo electrónico:</label><br>
+        <input type="email" name="email" required><br><br>
+
+        <label for="consulta">Consulta:</label><br>
+        <textarea name="consulta" rows="6" required></textarea><br><br>
+
+        <input type="submit" value="Enviar consulta">
+    </form>
+</body>
+</html>
